@@ -1,6 +1,6 @@
 ## Hey 👋
 
-Junior software developer mostly focusing on Rust but doing just fine in C++, C# and Python. I am a fast learner that's eager to grow and learn new skills.
+Aspiring software developer mostly focusing on Rust but doing just fine in C++, C# and Python. I am a fast learner that's eager to grow and learn new skills.
 
 Currently in search for a job.
 
